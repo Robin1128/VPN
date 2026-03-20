@@ -29,9 +29,7 @@ ps：如果临时需要使用VPN，平常不使用VPN也可以临时使用这个
 
 ## 2. 魔戒
 
-地址01：[mojie.kim](https://mojie.kim/register?aff=81dX0IXJ)
-
-地址02：[mojie.xn-yrs494l](https://mojie.xn--yrs494l.com/register?aff=s4xwMNnz)
+地址01：[mojie.xn-yrs494l](https://mojie.xn--yrs494l.com/register?aff=s4xwMNnz)
 
 优点：可以以流量形式购买，也属于十分便宜的VPN，相对于飞鸟云更加稳定一些。
 
@@ -53,6 +51,10 @@ ps：如果临时需要使用VPN，平常不使用VPN也可以临时使用这个
 地址02：[x1.435462.xyz](https://x1.435462.xyz/#/register?code=ud6LcQ42)
 
 地址03：[w2.344222.cc](https://w2.344222.cc/#/register?code=LZ965Ite)
+
+地址04:[feiniaoyun.xyz](https://feiniaoyun.xyz/#/register?code=icIJNSSI)
+
+网络请求不稳定 多请求一些时间
 
 优点：相对其他VPN基本属于最便宜的一个，使用场景更偏向于日常外网浏览和视频浏览，如果不是特别要求网络速度，就很推荐这个。主要可以买流量，正常使用20元600G套餐，基本可以使用半年至1年左右，十分便宜。
 
