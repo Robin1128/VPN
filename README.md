@@ -52,7 +52,7 @@ ps：如果临时需要使用VPN，平常不使用VPN也可以临时使用这个
 
 地址03：[w2.344222.cc](https://w2.344222.cc/#/register?code=LZ965Ite)
 
-地址04: [feiniaoyun.xyz](https://feiniaoyun.xyz/#/register?code=icIJNSSI)
+地址04:  [feiniaoyun.xyz](https://feiniaoyun.xyz/#/register?code=icIJNSSI)
 
 网络请求不稳定 多请求一些时间
 
