@@ -31,7 +31,7 @@ ps：如果临时需要使用VPN，平常不使用VPN也可以临时使用这个
 
 地址01：[mojie.xn-yrs494l](https://mojie.xn--yrs494l.com/register?aff=s4xwMNnz)
 
-优点：可以以流量形式购买，也属于十分便宜的VPN，相对于飞鸟云更加稳定一些。
+优点：可以以流量形式购买，也属于十分便宜的VPN，相对于飞鸟云更加稳定一些。正常使用或者不是很追求速度相对推荐这个。
 
 缺点：依旧还是会出现网络延迟问题，但是相对稳定。
 
@@ -46,15 +46,17 @@ ps：如果临时需要使用VPN，平常不使用VPN也可以临时使用这个
 
 ## 3. 飞鸟云
 
-地址01：[01.fnxx.cc](https://01.fnxx.cc/#/register?code=PMKItJrb)
+地址01：[01.170809.xyz](https://01.170809.xyz/#/register?code=JKubRjmz)
 
-地址02：[x1.435462.xyz](https://x1.435462.xyz/#/register?code=ud6LcQ42)
+地址02：[01.fnxx.cc](https://01.fnxx.cc/#/register?code=PMKItJrb)
 
-地址03：[w2.344222.cc](https://w2.344222.cc/#/register?code=LZ965Ite)
+地址03：[x1.435462.xyz](https://x1.435462.xyz/#/register?code=ud6LcQ42)
 
-地址04:  [feiniaoyun.xyz](https://feiniaoyun.xyz/#/register?code=icIJNSSI)
+地址04：[w2.344222.cc](https://w2.344222.cc/#/register?code=LZ965Ite)
 
-网络请求不稳定 多请求一些时间
+地址05：[feiniaoyun.xyz](https://feiniaoyun.xyz/#/register?code=icIJNSSI)
+
+PS：网站网络请求不稳定 可能多请求一些时间 网页多等待一下 如果还是进不去 用试用的vpn打开链接 
 
 优点：相对其他VPN基本属于最便宜的一个，使用场景更偏向于日常外网浏览和视频浏览，如果不是特别要求网络速度，就很推荐这个。主要可以买流量，正常使用20元600G套餐，基本可以使用半年至1年左右，十分便宜。
 
@@ -67,4 +69,3 @@ ps：如果临时需要使用VPN，平常不使用VPN也可以临时使用这个
 | 10元 | 200G             | 不限         | 不限         |
 | 15元 | 400G             | 不限         | 不限         |
 | 20元 | 600G             | 不限         | 不限         |
-
