@@ -78,17 +78,23 @@ PS：(2026年4月14日更新)
 
 ## 3. 飞鸟云
 
-地址01：[01.fnxx.cc](https://01.fnxx.cc/#/register?code=PMKItJrb)
+地址01：[n3.332244.icu](https://n3.332244.icu/#/register?code=8MbHYUly)
 
-地址02：[01.170809.xyz](https://01.170809.xyz/#/register?code=JKubRjmz)
+地址02：[n2.170809.xyz](https://n2.170809.xyz/#/register?code=IxdnvTPv)
 
-地址03：[x1.435462.xyz](https://x1.435462.xyz/#/register?code=ud6LcQ42)
+地址03：[w2.344222.cc](https://w2.344222.cc/#/register?code=LZ965Ite)
 
-地址04：[w2.344222.cc](https://w2.344222.cc/#/register?code=LZ965Ite)
+地址04：[n3.170809.xyz](https://n3.170809.xyz/#/register?code=JKubRjmz)
 
-地址05：[feiniaoyun.xyz](https://feiniaoyun.xyz/#/register?code=icIJNSSI)
+地址05：[n1.170809.xyz](https://n1.170809.xyz/#/register?code=lv7iz9f5)
 
-上面网站网络请求不稳定 可能多请求一些时间 网页多等待一下 如果还是进不去 用试用的vpn打开链接 
+地址06：[01.fnxx.cc](https://01.fnxx.cc/#/register?code=PMKItJrb)
+
+地址07：[feiniaoyun.xyz](https://feiniaoyun.xyz/#/register?code=icIJNSSI)
+
+上面网站在没有VPN代理的情况下请求可能会出现找不到网站的情况。
+
+多请求一些时间 网页多等待一下 如果还是进不去 用试用的vpn打开链接 
 
 
 
