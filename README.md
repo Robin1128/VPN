@@ -52,19 +52,17 @@ ps：如果临时需要使用VPN，平常不使用VPN也可以临时使用这个
 
 ## 2. 飞鸟云
 
-地址01：[d.634213.xyz](https://d.634213.xyz/#/register?code=IP7pVtA2)
+地址01：[a.538951.xyz](https://a.538951.xyz/#/register?code=hizFEVbs)
 
-地址02：[e.634213.xyz](https://e.634213.xyz/#/register?code=NubrUZPk)
+地址02：[b.538951.xyz](https://b.538951.xyz/#/register?code=KOxKeBHs)
 
-地址03：[f.634213.xyz](https://f.634213.xyz/#/register?code=25wXSWtj)
+地址03：[321fa405.538951.xyz](https://321fa405.538951.xyz/#/register?code=KTGiZpoa)
 
-地址04：[g3.352343.cc](https://g3.352343.cc/#/register?code=3jXX1YOZ)
+地址04：[e.634213.xyz](https://e.634213.xyz/#/register?code=NubrUZPk)
 
-地址05：[g1.342242.icu](https://g1.342242.icu/#/register?code=8h3iAWj9)
+地址05：[f.634213.xyz](https://f.634213.xyz/#/register?code=25wXSWtj)
 
-地址06：[n2.170809.xyz](https://n2.170809.xyz/#/register?code=IxdnvTPv)
-
-地址07：[feiniaoyun.xyz](https://feiniaoyun.xyz/#/register?code=icIJNSSI)
+地址06：[feiniaoyun.xyz](https://feiniaoyun.xyz/#/register?code=icIJNSSI)
 
 上面网站在没有VPN代理的情况下请求可能会出现找不到网站的情况。
 
