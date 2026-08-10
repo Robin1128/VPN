@@ -54,15 +54,15 @@ ps：如果临时需要使用VPN，平常不使用VPN也可以临时使用这个
 
 ## 2. 飞鸟云
 
-地址01：[a.538951.xyz](https://a.538951.xyz/#/register?code=hizFEVbs)
+地址01：[60d0bba1](https://60d0bba1.457262.xyz/#/register?code=ySHzKhrP)
 
-地址02：[b.538951.xyz](https://b.538951.xyz/#/register?code=KOxKeBHs)
+地址02：[8759bdde](https://8759bdde.457262.xyz/#/register?code=nlJXRUnm)
+
+地址03：[a.538951.xyz](https://a.538951.xyz/#/register?code=hizFEVbs)
+
+地址04：[b.538951.xyz](https://b.538951.xyz/#/register?code=KOxKeBHs)
 
 地址03：[321fa405.538951.xyz](https://321fa405.538951.xyz/#/register?code=KTGiZpoa)
-
-地址04：[e.634213.xyz](https://e.634213.xyz/#/register?code=NubrUZPk)
-
-地址05：[f.634213.xyz](https://f.634213.xyz/#/register?code=25wXSWtj)
 
 地址06：[feiniaoyun.xyz](https://feiniaoyun.xyz/#/register?code=icIJNSSI)
 
@@ -121,3 +121,4 @@ ps：如果临时需要使用VPN，平常不使用VPN也可以临时使用这个
 ps：(2026年5月6日更新)
 
 目前魔戒VPN在2026年5月份进行了一波涨价，目前相对贵了一些，可能不是很推荐，如果可以试试Cocoduck和飞鸟云。
+
