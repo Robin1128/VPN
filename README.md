@@ -103,7 +103,7 @@ ps：如果临时需要使用VPN，平常不使用VPN也可以临时使用这个
 
 地址01：[mojie.xn-yrs494l](https://mojie.xn--yrs494l.com/register?aff=s4xwMNnz)
 
-地址02:   [mojie.best](https://mojie.best/#/register?code=TBD51IW9)
+地址02：[mojie.best](https://mojie.best/#/register?code=TBD51IW9)
 
 优点：流量形式购买，也属于十分便宜的VPN，日常使用网络稳定一些。正常使用或者不是很追求速度相对推荐这个。
 
